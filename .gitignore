@@ -8,6 +8,8 @@ build/
 .DS_Store
 venv/
 .env
+.venv
+.venv/
 metadata.json
 metadata.csv
 test_sample.txt
