@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+dist/
+build/
+*.spec
+.DS_Store
+venv/
+.env
+metadata.json
+metadata.csv
+test_sample.txt
